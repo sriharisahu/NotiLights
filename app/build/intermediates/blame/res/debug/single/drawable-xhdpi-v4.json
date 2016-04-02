@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/srihari/StudioProjects/HueQuickStartApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/press_smartbridge.xml",
+        "source": "/home/srihari/StudioProjects/HueQuickStartApp/app/src/main/res/drawable-xhdpi/press_smartbridge.xml"
+    },
+    {
+        "merged": "/home/srihari/StudioProjects/HueQuickStartApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/srihari/StudioProjects/HueQuickStartApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
